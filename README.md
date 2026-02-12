@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rieme Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riemetoba&label=Profile%20views&color=0e75b6&style=flat" alt="riemetoba" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=riemetoba&label=Profile%20views&color=0e75b6&style=flat" alt="riemetoba" />
+</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -9,7 +11,11 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/riemetoba" target="blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="riemetoba" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **React JS**
 
