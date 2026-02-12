@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riemetoba&show_icons=true&locale=en" alt="riemetoba" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riemetoba&" alt="riemetoba" /></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
+</div>
