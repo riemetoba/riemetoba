@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=riemetoba&label=Profile%20views&color=0e75b6&style=flat" alt="riemetoba" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riemetoba&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 - 🌱 I’m currently learning **React JS**
 
 - 🤝 I’m looking for help with **E-commerce**
