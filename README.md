@@ -6,15 +6,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=riemetoba&theme=tokyonight" alt="riemetoba trophies" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/riemetoba" target="blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="riemetoba" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riemetoba&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 - 🌱 I’m currently learning **React JS**
