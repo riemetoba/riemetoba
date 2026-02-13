@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, Tailwind, React**
 
-- 📫 How to reach me **riemehasan06@gmail.com**
+- 📫 How to reach me <img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/hand-right.gif" width="30px"> **riemehasan06@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
