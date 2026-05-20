@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riemetoba&label=Profile%20views&color=0e75b6&style=flat" alt="riemetoba" />
+  <img src="https://git-readme-streak-stats.vercel.app/?user=riemetoba&theme=tokyonight" alt="riemetoba's streak" />
 </p>
 
 - 🌱 I’m currently learning **React JS**
