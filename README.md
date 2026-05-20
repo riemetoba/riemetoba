@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rieme+Hasan;Frontend+Developer;React+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://git-readme-streak-stats.vercel.app/?user=riemetoba&theme=tokyonight" alt="riemetoba's streak" />
-</p>
-
 - 🌱 I’m currently learning **React JS**
 
 - 🤝 I’m looking for help with **E-commerce**
