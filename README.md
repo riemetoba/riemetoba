@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riemetoba&theme=tokyonight" alt="riemetoba's streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=riemetoba&theme=github_dark" alt="GitHub Stats">
 </p>
 
 <p align="center">
