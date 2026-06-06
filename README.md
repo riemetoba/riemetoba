@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riemetoba&show_icons=true&theme=tokyonight" alt="Rieme Hasan's Github Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riemetoba&theme=gruvbox" />
 </p>
 
 <div align="center">
