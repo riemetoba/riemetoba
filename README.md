@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Backend Development with Node.js**
 
-- 🤝 I’m looking for help with **E-commerce**
+- 🤝 Seeking opportunities to advance my career and take on new challenges
 
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, Tailwind, React, Next.js**
 
