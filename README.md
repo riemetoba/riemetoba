@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rieme+Hasan;Frontend+Developer;React+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </h1>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Backend Development with Node.js**
 
 - 🤝 I’m looking for help with **E-commerce**
 
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap, Tailwind, React**
+- 💬 Ask me about **HTML, CSS, JS, Bootstrap, Tailwind, React, Next.js**
 
 - 📫 How to reach me 👉 **riemehasan06@gmail.com**
 
