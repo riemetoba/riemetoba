@@ -5,7 +5,7 @@
 <h3 align="center">Crafting elegant digital experiences with code.</h3>
 
 <div align="center">
-  <a href="mailto:riemehasan06@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=riemehasan06@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/rieme-hasan-291767398/">
